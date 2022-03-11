@@ -2,7 +2,6 @@
 
 > repositorio Criado para o desafio de Projeto
 
-[]
 
 ### links uteis 
 
